@@ -1,0 +1,12 @@
+{
+  "city":[
+    {
+      "Cityname": "Hassan",
+      "Latitude": "13.0033",
+      "Longitude":" 76.1004",
+      "Temperature": "24",
+      "Humidity": "80%"
+    }
+    ]
+
+}
